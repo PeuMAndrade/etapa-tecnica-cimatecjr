@@ -139,7 +139,7 @@ git push origin minha-feature
 
 Se você tiver alguma dúvida, entre em contato:  
 Nome: Pedro Henrique Mascarenhas de Andrade  
-Email: peu.mascarenhas@gmail.com (exemplo)  
+Email: peumandrade@gmail.com 
 GitHub: [https://github.com/PeuMAndrade](https://github.com/PeuMAndrade)
 
 ---
